@@ -1,4 +1,4 @@
-# IITM Fiber Optics DAS: Machine Learning for Distributed Acoustic Sensing
+# DAS: Machine Learning for Distributed Acoustic Sensing
 
 ## Project Overview
 
@@ -139,3 +139,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgments
 - Indian Institute of Technology Madras (IITM) for providing the DAS system and data
 - Thanks to all contributors and research advisors
+
