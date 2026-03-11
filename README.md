@@ -126,17 +126,3 @@ models, history, accuracy = train_improved_das_model(
     output_dir=output_dir
 )
 ```
-
-## Future Work
-- Implement real-time inference pipeline for live DAS data
-- Extend the model to detect additional activity classes
-- Develop anomaly detection capabilities for unknown events
-- Improve robustness against time-series shifts and adversarial attacks
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-- Indian Institute of Technology Madras (IITM) for providing the DAS system and data
-- Thanks to all contributors and research advisors
-
